@@ -1,0 +1,8 @@
+redis:
+  config:
+    hostname: "localhost"
+    port: 6379
+    maxIdle: 8
+    minIdle: 0
+    maxWaitMillis: 10000
+    maxTotal: 8
